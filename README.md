@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://media.discordapp.net/attachments/959980033676542023/996684575117942854/1657698512966.png" align="center" height="100" width="100" /></br>
-<p>• MoonTeam</p>
+<p>• MehdiSatanic •</p>
 </div></br>
 
 <div align="center">
