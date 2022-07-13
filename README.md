@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.discordapp.net/attachments/954059477810815007/996683566970839170/1.jpg" align="center" height="100" width="100" /></br>
+<img src="https://media.discordapp.net/attachments/959980033676542023/996684575117942854/1657698512966.png" align="center" height="100" width="100" /></br>
 <p>• MoonTeam</p>
 </div></br>
 
