@@ -4,8 +4,7 @@
 </div></br>
 
 <div align="center">
-  <p>• Developer and Configure in Discord •
-• Bot Designer and Aplication Developer •</p>
+  <p>• Developer and Configure in Discord •</p>
 </div></br>
 
 
