@@ -9,12 +9,10 @@
     <a href="mailto:discord.najafi7299@gmail.com"><img src="https://img.shields.io/badge/Gmail-323540?style=for-the-badge&logo=gmail&logoColor=5294E2" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
-<div align="center">
-  <p>• Developer and Configure in Discord •</p>
-</div></br>
-
 
 <div align="center">
 <img src="https://media.discordapp.net/attachments/954059477810815007/996688120479227984/IMG_20220713_123203.jpg" align="center" height="400" width="370" /></br>
-<p>- ꜱᴀᴛᴀɴɪᴄ ☾</p>
+
+<div align="center">
+  <p>• Developer and Configure in Discord •</p>
 </div></br>
