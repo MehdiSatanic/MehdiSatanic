@@ -9,6 +9,6 @@
 
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/862717041152229426/982804644629712946/abol.jpg" align="center" height="400" width="370" /></br>
-<p>• MoonTeam</p>
+<img src="https://media.discordapp.net/attachments/954059477810815007/996688120479227984/IMG_20220713_123203.jpg" align="center" height="400" width="370" /></br>
+<p>- ꜱᴀᴛᴀɴɪᴄ ☾</p>
 </div></br>
